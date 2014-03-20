@@ -1,0 +1,4 @@
+demo_bundle_index_index:
+    pattern:  /
+    defaults:
+        _controller: DemoBundle:Index:index
